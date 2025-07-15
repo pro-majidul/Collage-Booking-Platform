@@ -1,6 +1,6 @@
 import React from 'react';
 
-const page = () => {
+const MyCollage = () => {
     return (
 
         <div className="relative flex size-full min-h-screen flex-col bg-slate-50 group/design-root overflow-x-hidden"
@@ -109,4 +109,4 @@ const page = () => {
     );
 };
 
-export default page;
+export default MyCollage;
